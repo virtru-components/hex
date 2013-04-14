@@ -1,0 +1,15 @@
+{
+  "name": "hex",
+  "repo": "virtru-components/hex",
+  "description": "Hex string encoder/decoder",
+  "dependencies": {},
+  "development": {
+    "virtru-components/chai": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "testScripts": [
+    "tests.js"
+  ]
+}
