@@ -1,5 +1,6 @@
 {
   "name": "hex",
+  "version": "0.0.1",
   "repo": "virtru-components/hex",
   "description": "Hex string encoder/decoder",
   "dependencies": {},
