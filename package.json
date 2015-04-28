@@ -1,0 +1,9 @@
+{
+  "name": "hex",
+  "repo": "virtru-components/hex",
+  "description": "A utf8 library",
+  "version": "0.0.2",
+  "dependencies": {
+  },
+  "license": "MIT"
+}
